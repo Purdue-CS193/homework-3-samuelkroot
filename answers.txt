@@ -2,7 +2,7 @@ Part 1: Write your message here from GitHub
 Beep boop, this is a message to myself
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
-
+Updates the local branches with the remote versions
 Task 2:
 // Under this line, describe the difference between Git and GitHub
 
