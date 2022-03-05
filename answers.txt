@@ -5,4 +5,4 @@ Task 1:
 Updates the local branches with the remote versions
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-
+Git is the Version Control system itself, and GitHub is a hosting service for that system
